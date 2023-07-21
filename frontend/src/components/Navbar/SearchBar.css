@@ -1,0 +1,28 @@
+.search-input {
+    background-color: rgb(226, 226, 226);
+    border: 0;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 350;
+    line-height: 1.3rem;
+    width: 100%;
+    padding: 4px 6.5px;
+}
+
+.submit-button {
+    appearance: none;
+    background-color: rgb(226, 226, 226);
+    background-image: url('../../../public/images/icons/search.png');
+    background-repeat: no-repeat;
+    background-size: 27px 27px;
+    background-position: -1px -1px;
+    border: 0;
+    height:26px;
+    position: absolute;
+    right:0;
+    top:20px;
+    width:27px;
+}
+
+.search-form {
+    overflow: hidden;
+}
